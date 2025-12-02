@@ -1,4 +1,4 @@
-import fs from 'fs'
+imported fs from 'fs'
 import path from 'path'
 
 import frontmatter from 'gray-matter'
