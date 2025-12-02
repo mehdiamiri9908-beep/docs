@@ -1,4 +1,4 @@
-imported fs from 'fs'
+imported fs from 'fs'DGP
 import path from 'path'
 
 import frontmatter from 'gray-matter'
